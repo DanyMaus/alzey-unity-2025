@@ -1,10 +1,64 @@
 fileFormatVersion: 2
-guid: a4eb12900b5629249a918603a8904879
+guid: 77be13afa7840d849a3ce8fdfeda66d1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1733145597659522403
-    second: Exit geschlossen1_0
+      213: -1291202924252101130
+    second: Background1_0
+  - first:
+      213: -5781462283130520655
+    second: Background1_1
+  - first:
+      213: -822417806250360712
+    second: Background1_2
+  - first:
+      213: -9221508792573672774
+    second: Background1_3
+  - first:
+      213: 288901357872147469
+    second: Background1_4
+  - first:
+      213: -7837205554681345983
+    second: Background1_5
+  - first:
+      213: 4858607104122544851
+    second: Background1_6
+  - first:
+      213: 6821731922144133093
+    second: Background1_7
+  - first:
+      213: 7417317620647711480
+    second: Background1_8
+  - first:
+      213: -6891233078409295889
+    second: Background1_9
+  - first:
+      213: -1376675751833047613
+    second: Background1_10
+  - first:
+      213: 2549291916136814211
+    second: Background1_11
+  - first:
+      213: 7825728697972404352
+    second: Background1_12
+  - first:
+      213: -5858752045614460991
+    second: Background1_13
+  - first:
+      213: -4116224785003946546
+    second: Background1_14
+  - first:
+      213: -4915127873933930963
+    second: Background1_15
+  - first:
+      213: 7493126578867573999
+    second: Background1_16
+  - first:
+      213: 5205124076535552683
+    second: Background1_17
+  - first:
+      213: -6053382080513461800
+    second: Background1_18
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +126,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -100,13 +154,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Exit geschlossen1_0
+      name: Background1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 32
-        height: 32
+        y: 1080
+        width: 320
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,206 +169,140 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9ad873f241a2f7e0800000000000000
-      internalID: -1733145597659522403
+      spriteID: 6f5020f08c9b41ee0800000000000000
+      internalID: -1291202924252101130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit geschlossen1_1
+      name: Background1_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
+        x: 0
+        y: 900
+        width: 320
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f9eea5f76bd8c3048bfc6fd484523c1e
-      internalID: -101654323
+      spriteID: 1bbbfab5fae14cfa0800000000000000
+      internalID: -5781462283130520655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit geschlossen1_2
+      name: Background1_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
+        x: 0
+        y: 720
+        width: 320
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: dfdee59e504c21b48adcbb33e4ce576d
-      internalID: 1956519034
+      spriteID: 870cd71dc5f2694f0800000000000000
+      internalID: -822417806250360712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit geschlossen1_3
+      name: Background1_3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
+        x: 0
+        y: 540
+        width: 320
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c4e94dd596169184a9288697db4db56e
-      internalID: -36774382
+      spriteID: ab2418d5c9e960080800000000000000
+      internalID: -9221508792573672774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit geschlossen1_4
+      name: Background1_4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
+        x: 0
+        y: 360
+        width: 320
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 97bc12391f4f9bb40b7656dd778fe71e
-      internalID: 358532371
+      spriteID: d0ce81b1142620400800000000000000
+      internalID: 288901357872147469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit geschlossen1_5
+      name: Background1_5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
+        x: 0
+        y: 180
+        width: 320
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 1cb496f07b09ab5478b9fdc69ad79bfa
-      internalID: -691518056
+      spriteID: 14800814217ac3390800000000000000
+      internalID: -7837205554681345983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Exit geschlossen1_6
+      name: Background1_6
       rect:
         serializedVersion: 2
-        x: 192
+        x: 0
         y: 0
-        width: 32
-        height: 32
+        width: 320
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 04ecc495fa3e1b94394e894dad512198
-      internalID: 276160426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Exit geschlossen1_7
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e35175f180e52942a0243517c170603
-      internalID: -1932642729
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Exit geschlossen1_8
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b324bb94d4b2fa746934e541c99d5db2
-      internalID: 54010608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Exit geschlossen1_9
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe407adace795d048b24822cd110af12
-      internalID: -2078306974
+      spriteID: 3d2e9605b6d3d6340800000000000000
+      internalID: 4858607104122544851
       vertices: []
       indices: 
       edges: []
@@ -323,7 +311,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 149e3362dd905e6429bddc6d530c0f1e
+    spriteID: 90616f0e426f17947bc625591ed94fd3
     internalID: 0
     vertices: []
     indices: 
@@ -333,16 +321,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Exit geschlossen1_0: -1733145597659522403
-      Exit geschlossen1_1: -101654323
-      Exit geschlossen1_2: 1956519034
-      Exit geschlossen1_3: -36774382
-      Exit geschlossen1_4: 358532371
-      Exit geschlossen1_5: -691518056
-      Exit geschlossen1_6: 276160426
-      Exit geschlossen1_7: -1932642729
-      Exit geschlossen1_8: 54010608
-      Exit geschlossen1_9: -2078306974
+      Background1_0: -1291202924252101130
+      Background1_1: -5781462283130520655
+      Background1_2: -822417806250360712
+      Background1_3: -9221508792573672774
+      Background1_4: 288901357872147469
+      Background1_5: -7837205554681345983
+      Background1_6: 4858607104122544851
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
